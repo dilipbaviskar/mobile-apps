@@ -6,7 +6,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ```bash
 
-export APP_NAME=FirstApp
+export APP_NAME=TouristCab
 npx create-expo-app -t with-router $APP_NAME
 npx create-expo-app -template examples/with-router
 cd $APP_NAME
